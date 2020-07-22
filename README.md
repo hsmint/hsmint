@@ -11,9 +11,7 @@
 <div align=center>
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hsmint&hide=["prs","issues"])
-  
-  ![Follow](https://img.shields.io/github/followers/hsmint?style=social)
-  
+ 
 </div>
 
 <!--
