@@ -8,9 +8,9 @@
 
 🏫 I'm currently studying in Hanyang University ERICA, since 2019. Majoring `Computer Science`💻.
 
-🌱 I’m currently learning `Machine Learning`.
+🌱 I’m currently learning `Federated Learning` and `Quantum Computing`.
 
-⭐ I'm currently interested in `Flutter`.
+⭐ I'm currently interested in `Quantum Machine Learning`.
 
 📫 How to reach me: hsmint.hong@gmail.com
 
